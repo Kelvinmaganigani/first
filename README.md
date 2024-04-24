@@ -1,1 +1,2 @@
-# first
+# Java Byte Array example
+This shows how to use java.io.ByteArrays...
